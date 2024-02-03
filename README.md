@@ -16,3 +16,20 @@
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" />  
 </div>
+
+## Contact
+
+<div align="center">
+
+  <h3 style="color: red; font-family: Arial;">Connect with me:</h3>
+
+  <p>
+    <a href="https://www.linkedin.com/in/mohammed-hossam-0aa532187/" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <a href="mailto:mohammedhosam141@gmail.com">
+      <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/65px/mail.png" alt="Email" width="30" height="30" />
+    </a>
+  </p>
+
+</div>
+
