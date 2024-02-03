@@ -30,6 +30,9 @@
       <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/65px/mail.png" alt="Email" width="30" height="30" />
     </a>
   </p>
-
 </div>
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mo0hamedh&layout=compact)](https://github.com/mo0hamedh/github-readme-stats)
+
+
 
