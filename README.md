@@ -34,5 +34,6 @@
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mo0hamedh&layout=compact)](https://github.com/mo0hamedh/github-readme-stats)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mo0hamedh&" alt="mo0hamedh" /></p>
 
 
